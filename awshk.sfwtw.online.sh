@@ -2,7 +2,7 @@
 echo "1
 4
 
-awshk1.sfwtw.online
+awshk.sfwtw.online
 y
 y
 
