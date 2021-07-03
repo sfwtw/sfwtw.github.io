@@ -8,7 +8,7 @@ y
 y
 ioytvws?ed=2048
 
-y
+
 
 
 " | bash <(curl -s -L https://git.io/v2rayinstall.sh)
