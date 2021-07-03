@@ -4,10 +4,6 @@ echo "1
 
 awshk1.sfwtw.online
 y
-y
-y
-ioytvws?ed=2048
-
 
 
 
