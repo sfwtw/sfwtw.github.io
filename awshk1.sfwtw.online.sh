@@ -4,6 +4,8 @@ echo "1
 
 awshk1.sfwtw.online
 y
+y
+
 
 
 
